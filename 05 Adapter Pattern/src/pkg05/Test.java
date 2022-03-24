@@ -4,13 +4,11 @@
  * and open the template in the editor.
  */
 package pkg05;
-
 /**
  *
  * @author imkor
  */
 public class Test {
-
     /**
      * @param args the command line arguments
      */
@@ -20,5 +18,4 @@ public class Test {
         reader.read("file2", "Doc");
         reader.read("file3", "Docx");
     }
-    
 }
