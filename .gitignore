@@ -28,3 +28,6 @@ hs_err_pid*
 /03 Abstract Factory/nbproject/private/
 /03 Abstract Factory/build/
 /03 Abstract Factory/dist/
+/05 Adapter Pattern/nbproject/private/
+/05 Adapter Pattern/build/
+/05 Adapter Pattern/dist/
