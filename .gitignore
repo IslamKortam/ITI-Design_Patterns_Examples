@@ -22,3 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /01 Singleton Pattern/dist/
+/02 Factory Metod Pattern/nbproject/private/
+/02 Factory Metod Pattern/build/
+/02 Factory Metod Pattern/dist/
