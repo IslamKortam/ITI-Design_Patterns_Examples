@@ -43,3 +43,6 @@ hs_err_pid*
 /09 Dependency Inversion Example/nbproject/private/
 /09 Dependency Inversion Example/build/
 /09 Dependency Inversion Example/dist/
+/04 Builder Pattern/nbproject/private/
+/04 Builder Pattern/build/
+/04 Builder Pattern/dist/
